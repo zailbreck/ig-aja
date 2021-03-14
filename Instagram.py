@@ -213,9 +213,3 @@ class Instagram(object):
         if res.status_code != 200:
             return False
         return res.text
-cow = Instagram({ 'username': 'rintoar.dev', 'password': 'rintod2234#', 'proxy': None})
-isAuth, message = cow.login()
-if isAuth:
-    print(cow.report('bima_kur13'))
-else:
-    print(message)
