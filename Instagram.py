@@ -1,5 +1,4 @@
 #### Create by Con7ext
-#### @heker.me
 import re
 import os
 import pytz
