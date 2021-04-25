@@ -1,7 +1,7 @@
-#### Create by Con7ext
+#### @Con7ext
+### https://github.com/con7ext/instagramApi
 import re
 import os
-import pytz
 import json
 import datetime
 import requests
